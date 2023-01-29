@@ -1,0 +1,28 @@
+# Ignore virtualenv
+venv
+
+# Ignore all pycache files
+__pycache__
+
+# Ignore other python files that dont need to be deployed
+*.pyc
+*.pyo
+
+#FLASK_SETUP
+.flask_setup
+
+# ignore all files that begin with ._
+._*
+
+# ignore dataset
+dataset
+# ignore .model
+*.model
+*checkpoint*
+settings.json
+
+# Ignore build and distribution folder
+build
+dist
+
+.DS_Store
