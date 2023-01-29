@@ -1,16 +1,4 @@
-# kw_irs
+the medi watch software, is a system that helps with the digitization of hospital records and the intergration of a central record system
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+link to the web component under construction is given below
+https://www.figma.com/file/me1fBrqgqyxevQX0LeQPtd/Ilorin-Hackathon?node-id=1%3A4&t=RHayKQdxDLIx39W1-0
